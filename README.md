@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Sorting
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
