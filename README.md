@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
