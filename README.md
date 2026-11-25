@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -12,19 +13,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
