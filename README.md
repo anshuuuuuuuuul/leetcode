@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -34,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Sorting
 |  |
