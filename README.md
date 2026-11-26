@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
@@ -30,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
