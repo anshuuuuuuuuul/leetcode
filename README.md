@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
 | ------- |
