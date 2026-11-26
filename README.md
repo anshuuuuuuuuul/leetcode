@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshuuuuuuuuul/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
@@ -30,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/anshuuuuuuuuul/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anshuuuuuuuuul/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
